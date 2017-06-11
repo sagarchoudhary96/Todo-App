@@ -1,4 +1,4 @@
-# Todos-App
+# Todo-App
 A simple TODO app built using Meteor Framework. A User needs to sign in to add or remove tasks from the app 
 and can make them public or private according to their need.
 
@@ -6,7 +6,7 @@ and can make them public or private according to their need.
 
 ## How to Run:
 * [Install](https://www.meteor.com/install) the meteor on your development environment.
-* [Download](https://github.com/sagarchoudhary96/Todos-App/archive/master.zip) or [Clone](https://github.com/sagarchoudhary96/Todos-App.git) the Repository.
+* [Download](https://github.com/sagarchoudhary96/Todo-App/archive/master.zip) or [Clone](https://github.com/sagarchoudhary96/Todo-App.git) the Repository.
 * Use `$ cd Todos-App` to change directory to the root of this app.
 * Run ` $ meteor npm install` to install the project dependencies.
 * Run the app using `$ meteor` command.
