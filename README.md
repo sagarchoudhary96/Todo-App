@@ -2,8 +2,6 @@
 A simple TODO app built using Meteor Framework. A User needs to sign in to add or remove tasks from the app 
 and can make them public or private according to their need.
 
- **UI Updates and new Functionalities Coming soon :)**
-
 ## How to Run:
 * [Install](https://www.meteor.com/install) the meteor on your development environment.
 * [Download](https://github.com/sagarchoudhary96/Todo-App/archive/master.zip) or [Clone](https://github.com/sagarchoudhary96/Todo-App.git) the Repository.
